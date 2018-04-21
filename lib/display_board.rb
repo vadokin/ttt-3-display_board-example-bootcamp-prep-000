@@ -8,6 +8,12 @@ def display_board
   puts "   " + "|" + "   " + "|" + "   "
   puts 11.times {print "-"}
 
+  puts "   " + "|" + "   " + "|" + "   "
+  puts 11.times {print "-"}
+
+  puts "   " + "|" + "   " + "|" + "   "
+  puts 11.times {print "-"}
+
 end
 
 display_board
