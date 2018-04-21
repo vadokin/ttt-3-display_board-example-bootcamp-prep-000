@@ -6,10 +6,12 @@ def display_board
   # line = 11.times {print "-"}
 
   puts "   " + "|" + "   " + "|" + "   "
-  puts 11.times {print "-"}
+  puts "-----------"
+  # puts 11.times {print "-"}
 
   puts "   " + "|" + "   " + "|" + "   "
-  puts 11.times {print "-"}
+  puts "-----------"
+  # puts 11.times {print "-"}
 
   puts "   " + "|" + "   " + "|" + "   "
 
