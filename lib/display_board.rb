@@ -4,6 +4,7 @@ def display_board
   row = ["   ", "|", "   ", "|", "   "]
   line = 11.times {"-"}
 
+  
 end
 
 display_board
