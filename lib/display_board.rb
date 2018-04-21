@@ -5,9 +5,9 @@ def display_board
   # row = [cell, "|", cell, "|", cell]
   # line = 11.times {print "-"}
 
-  puts row
-  puts row
-  puts row
+  puts "   " + "|" + "   " + "|" + "   "
+  puts 11.times {print "-"}
+
 end
 
 display_board
