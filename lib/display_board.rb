@@ -3,7 +3,7 @@ def display_board
   puts "A Tic Tac Toe Board"
   row = ["   ", "|", "   ", "|", "   "]
   line = 11.times {print "-"}
-  
+
 end
 
 display_board
