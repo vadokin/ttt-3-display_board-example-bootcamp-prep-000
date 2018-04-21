@@ -2,7 +2,7 @@
 def display_board
   puts "A Tic Tac Toe Board"
   cell = "   "
-  row = ["   ", "|", "   ", "|", "   "]
+  row = [cell, "|", cell, "|", cell]
   line = 11.times {print "-"}
 
 end
